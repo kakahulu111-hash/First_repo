@@ -1,2 +1,2 @@
 # First_repo
-学习
+学习C++
