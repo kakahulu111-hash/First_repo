@@ -1,6 +1,10 @@
 #include<iostream>
+#include "world/world.h"
+#include "hello/hello.h"
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    hello_function();
+    world_function();
+    std::cout << "hello world" << std::endl;
     return 0;
 }
